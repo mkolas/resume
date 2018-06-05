@@ -1,0 +1,29 @@
+Employment 
+Developer, Analyst, Architect 
+Max Kolasinski 
+Technology Services Group 
+kolasinskim@gmail.com 
+Sept 2012 - Dec 2016 
+  • Consulted, managed, designed, and developed for a wide variety of clients on their content management (ECM) implementations, with a focus on digital asset management (DAM) scenarios.
+• Developed across the full stack of web technology, from building software libraries and database schemas to writing APIs, client-side scripts, and user interfaces.
+• Communicated daily with clients through requirements gathering, solution design, and as a primary point of contact.
+• Gained extensive experience with enterprise-level business requirements and processes, including data modeling, content lifecycles, business workflows, migrations, and external publishing mechanisms. 
+Sample Client Project Experience
+New York Philharmonic Digital Archives
+• Designed and developed numerous improvements and enhancements to the Philharmonic’s public-facing Digital Archives, including implementing JPEG2000-based dynamic renditioning, the addition of Performance Histories, and the creation of an Authority Management tool to normalize names and titles exported from archival source systems.
+• Acted as primary point-of-contact for the Philharmonic over the course of three years, offering technical guidance, support, and working through product roadmaps with senior members of the Archives team.
+Intel Corporation
+• Worked closely with a handful of Intel teams on the company’s global transition to Alfresco ECM. Developed significant customizations to the Alfresco interface, quickly picking up YUI and Spring knowledge in the process. Assisted Intel developers in understanding Alfresco architecture and passing strict vulnerability tests.
+• Managed and designed the process of converting numerous workflow processes from a homegrown system into Activiti BPM. Communicated closely with client contacts to make sure that the process looked “just right” for exacting users, implementing small UI tweaks requiring strong attention to details.
+American Society for Clinical Pathology
+• Re-architected a medical dictionary, PathTerms, in MongoDB with a Backbone-based web interface. Incorporated the use of Solr for fast and easy integration with other ASCP applications, serving value- assisted lists and light language processing to find terms from any of the client’s applications.
+• Implemented support for annotating deep zoom medical slide images in TSG’s OpenAnnotate software, using OpenSlide, OpenSeadragon, and RaphaelJS.
+Education 
+Ann Arbor, MI  University of Michigan  Sept 2008 - May 2012 
+• B.S.E. in Computer Science Engineering, May 2012
+• Member of UM::Autonomy, CSE Scholars
+Technical Skills
+• Day-to-day familiarity with Java and JavaScript, considerable experience with C++, Objective-C, Python, and PHP, personal and “for fun” use of Ruby and Go.
+• Well versed with web technologies, frameworks, and services such as Apache, Tomcat, Node, Spring MVC, Rails, Solr, Elasticsearch, Akamai, NPM, etc.
+• Experience with DBs such as MSSQL, MySQL, Oracle, Informix, and NoSQL including Mongo and HBase.
+   
